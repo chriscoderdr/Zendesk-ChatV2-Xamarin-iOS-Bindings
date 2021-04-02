@@ -1,0 +1,27 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatSDK/ApiDefinitions.cs">
+    <Files>
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="723" Column="24" />
+      <File FileName="ChatSDK/Properties/AssemblyInfo.cs" />
+      <File FileName="ChatSDK/ApiDefinitions.cs" Line="98" Column="35" />
+      <File FileName="ChatSDK/StructsAndEnums.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZendeskXamariniOSBindings" expanded="True">
+            <Node name="ChatSDK" expanded="True">
+              <Node name="ApiDefinitions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+[assembly: ObjCRuntime.LinkWith ("ChatSDK.framework", SmartLink = true)]
+[assembly: ObjCRuntime.LinkWith ("ChatProvidersSDK.framework")]
+[assembly: ObjCRuntime.LinkWith ("CommonUISDK.framework")]
+[assembly: ObjCRuntime.LinkWith ("MessagingAPI.framework")]
+[assembly: ObjCRuntime.LinkWith ("MessagingSDK.framework")]
+[assembly: ObjCRuntime.LinkWith ("SDKConfigurations.framework")]
