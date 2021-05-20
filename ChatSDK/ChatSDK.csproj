@@ -41,35 +41,40 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-      <NativeReference Include="..\..\..\Desktop\Release-fat\ChatSDK.framework">
-        <Kind>Framework</Kind>
-      </NativeReference>
-      <NativeReference Include="..\..\..\Desktop\Release-fat\ChatProvidersSDK.framework">
-        <Kind>Framework</Kind>
-        <SmartLink>False</SmartLink>
-      </NativeReference>
-      <NativeReference Include="..\..\..\Desktop\Release-fat\CommonUISDK.framework">
-        <Kind>Framework</Kind>
-        <SmartLink>False</SmartLink>
-      </NativeReference>
-      <NativeReference Include="..\..\..\Desktop\Release-fat\MessagingAPI.framework">
-        <Kind>Framework</Kind>
-        <SmartLink>False</SmartLink>
-      </NativeReference>
-      <NativeReference Include="..\..\..\Desktop\Release-fat\MessagingSDK.framework">
-        <Kind>Framework</Kind>
-        <SmartLink>False</SmartLink>
-      </NativeReference>
-      <NativeReference Include="..\..\..\Desktop\Release-fat\SDKConfigurations.framework">
-        <Kind>Framework</Kind>
-        <SmartLink>False</SmartLink>
-      </NativeReference>
-    </ItemGroup>
-    <ItemGroup>
       <ObjcBindingApiDefinition Include="ApiDefinitions.cs" />
     </ItemGroup>
     <ItemGroup>
       <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <NativeReference Include="..\frameworks\ChatProvidersSDK.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
+      <NativeReference Include="..\frameworks\ChatSDK.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
+      <NativeReference Include="..\frameworks\CommonUISDK.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
+      <NativeReference Include="..\frameworks\MessagingAPI.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
+      <NativeReference Include="..\frameworks\MessagingSDK.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
+      <NativeReference Include="..\frameworks\SDKConfigurations.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
+      <NativeReference Include="..\frameworks\ZendeskiOS.framework">
+        <Kind>Framework</Kind>
+        <SmartLink>False</SmartLink>
+      </NativeReference>
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.ObjCBinding.CSharp.targets" />
 </Project>

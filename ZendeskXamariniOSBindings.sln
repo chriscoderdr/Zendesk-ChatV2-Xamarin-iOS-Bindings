@@ -1,5 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSDK", "ChatSDK\ChatSDK.csproj", "{56AC7F15-AE3D-41E7-A445-D141069DB052}"
 EndProject
 Global

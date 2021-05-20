@@ -1,0 +1,6 @@
+/Users/chrisgomez/Development/testing/Zendesk-ChatV2-Xamarin-iOS-Bindings/ChatSDK/bin/Release/ChatSDK.dll
+/Users/chrisgomez/Development/testing/Zendesk-ChatV2-Xamarin-iOS-Bindings/ChatSDK/bin/Release/ChatSDK.pdb
+/Users/chrisgomez/Development/testing/Zendesk-ChatV2-Xamarin-iOS-Bindings/ChatSDK/obj/Release/ChatSDK.csprojAssemblyReference.cache
+/Users/chrisgomez/Development/testing/Zendesk-ChatV2-Xamarin-iOS-Bindings/ChatSDK/obj/Release/ChatSDK.csproj.CoreCompileInputs.cache
+/Users/chrisgomez/Development/testing/Zendesk-ChatV2-Xamarin-iOS-Bindings/ChatSDK/obj/Release/ChatSDK.dll
+/Users/chrisgomez/Development/testing/Zendesk-ChatV2-Xamarin-iOS-Bindings/ChatSDK/obj/Release/ChatSDK.pdb
